@@ -1,0 +1,16 @@
+
+# Ignore the virtual environment folder
+venv/
+
+# Byte-compiled / optimized / compiled Python files
+*.py[cod]
+__pycache__/
+
+# Environment variables and secrets
+.env
+*.env
+
+# Backup and temporary files
+*.bak
+*.tmp
+*~
